@@ -1,4 +1,3 @@
----
 
 (in project/build)
 cmake ..
